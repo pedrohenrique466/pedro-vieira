@@ -1,0 +1,51 @@
+body{
+   background-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+.logo{
+    height: 200px;
+    width: 500px;
+ 
+}
+.botao{
+    display:flex;
+    justify-content: center;
+
+    color: rgb(0, 0, 0);
+    
+
+}
+.imagem1{
+    display: flex;
+    background-color: red;
+}
+.texto{
+    width: 800px;
+    padding: 15px;
+    color: rgb(255, 253, 253);
+    background-color: red;
+    height: 40px;
+    
+}
+.img2{
+    width: 200px;
+    padding: 25px;
+    color: red;
+
+}
+a{
+    color: rgb(0, 0, 0);
+    margin: 40px;
+  
+}
+.dentro{ 
+    color: aquamarine;
+
+}
+.imagem3{
+    height: 200px;
+    background-color: red;
+}
+
+
+
